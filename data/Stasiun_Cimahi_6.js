@@ -1,0 +1,1 @@
+var json_Stasiun_Cimahi_6 = {"type":"FeatureCollection","name":"Stasiun_Cimahi_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAMA":"STASIUN CIMAHI","FOTO":"C:\\Arcgis file\\SEMESTER 3\\REMED SIP\\foto\\st cimahoy.jpg"},"geometry":{"type":"Point","coordinates":[107.536388378521124,-6.885715641387855]}}]}
